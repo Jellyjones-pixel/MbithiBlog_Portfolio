@@ -1,11 +1,11 @@
 Blog App. 
-# KimutBlog
+# MbithiBlog
 
-KimutBlog is a web application for blogging, built using PHP and MySQL.
+MbithiBlog is a web application for blogging, built using PHP and MySQL.
 
 ## Overview
 
-KimutBlog provides a platform for users to create and manage their blogs. It offers features such as:
+MbithiBlog provides a platform for users to create and manage their blogs. It offers features such as:
 
 - User authentication: Register and log in securely.
 - Create and edit blog posts: Share your thoughts and experiences with the world.
@@ -23,7 +23,7 @@ KimutBlog provides a platform for users to create and manage their blogs. It off
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/your-username/KimutBlog.git
+   git clone https://github.com/Jellyjones-pixel/MbithiBlog_Portfolio
 
 
 Database Setup:
